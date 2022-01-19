@@ -1,2 +1,0 @@
-# favorite-football
-Begin app
